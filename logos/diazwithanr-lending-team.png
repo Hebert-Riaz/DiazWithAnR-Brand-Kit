@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Hello from Bash!"
+git open binary editor
+
+
