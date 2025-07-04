@@ -7,7 +7,7 @@ Welcome to the official **DiazWithAnR** brand kit — built for marketing, merch
 ## Table of Contents
 
 - [Logos](#-logos)
-- [Mockups](#-mockups)
+- [Mockups](#️-mockups)
 - [Brand Colors](#-brand-colors)
 - [Taglines](#-taglines-optional)
 - [Merch-Ready Guidelines](#-merch-ready-guidelines)
