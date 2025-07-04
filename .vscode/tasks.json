@@ -19,7 +19,7 @@
 				"docker-build"
 			],
 			"python": {
-				"file": "logos\\import numpy as np.py"
+				"module": "build"
 			}
 		}
 	]
