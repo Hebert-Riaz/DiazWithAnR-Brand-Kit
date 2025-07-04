@@ -14,3 +14,4 @@ COPY . .
 # Default command
 CMD ["python", "main.py"]
 
+
