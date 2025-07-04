@@ -13,5 +13,8 @@ COPY . .
 
 # Default command
 CMD ["python", "main.py"]
+# Expose the port the app runs on
+EXPOSE 8000
+
 
 
