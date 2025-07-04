@@ -24,7 +24,21 @@ Welcome to the **DiazWithAnR Brand Kit** — a central hub for our mortgage team
 | Pilgrim Grey | `#edeced` |
 | Crisp White  | `#ffffff` |
 
----
+```python
+# Example Python code
+def print_brand_colors():
+    colors = {
+        "Trusty Navy": "#002655",
+        "Horizon Gold": "#fbc13f",
+        "Sky Blue": "#1a6eb6",
+        "Pilgrim Grey": "#edeced",
+        "Crisp White": "#ffffff"
+    }
+    for name, hex in colors.items():
+        print(f"{name}: {hex}")
+
+print_brand_colors()
+```
 
 ## 🛠️ Usage Guidelines
 
@@ -43,6 +57,11 @@ Welcome to the **DiazWithAnR Brand Kit** — a central hub for our mortgage team
 ---
 
 ## 📎 Contact
+
+| File | Description |
+|------|-------------|
+| `Contact/contact-info.txt` | Team contact information |
+| `Contact/brand-approvals.pdf` | Brand approval guidelines (PDF) |
 
 For brand approvals or questions:
 **marketing@pilgrimmtg.com**
